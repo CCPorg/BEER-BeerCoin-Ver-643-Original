@@ -46,12 +46,12 @@ Version 642 Modificatins
 
 Get more info
 ========
-* **Official WEB Site:** *http://vodkacoin.info*
-* **Direct contact:** *contact@@@vodkacoin.info*
+* **Official WEB Site:** *http://www.beercoin.info*
+* **Direct contact:** *contact@@@beercoin.info*
 * **Twitter:** *https://twitter.com/AddNodeMaster*
-* **Block explorer:** *http://explorer.vodkacoin.info*
+* **Block explorer:** *http://explorer.beercoin.info*
 * **IRC Channel:** *https://webchat.freenode.net/?channels=#ccp*
-* **Forum:** *https://cryptocointalk.com/forum/780-vodkacoin-vdc/*
+* **Forum:** *https://cryptocointalk.com/forum/756-beercoin-beer/*
 * **Facebook page:** *https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136*
 
 
