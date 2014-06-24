@@ -58,4 +58,4 @@ Get more info
 ========
 BEER-BeerCoin is provided by CCP aka Crypto Currency Preservation.  
 Thanks for reading, using and mining BeerCoins.  
-**VGold**
+***VGold***
